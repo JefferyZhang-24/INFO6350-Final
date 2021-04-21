@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml:2:3-52
+		INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml:4:3-65
+	android:name
+		ADDED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml:4:20-62
+uses-sdk
+INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml
+		ADDED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanghaojie/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.3.0/android/src/main/AndroidManifest.xml
